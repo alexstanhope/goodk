@@ -1,0 +1,24 @@
+a:hover {  font-weight: bold; text-decoration: none}
+ul {  list-style-image: url(/images/common/list-buttons.gif)}
+.body_style {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: center; color: #003366}
+.link_general { color: #003366; text-decoration: none ; font-weight: bold}
+.div_headerSpacer { height: 40px; width: 100%; float: none;}
+.div_pageOuter { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; width: 640px; border: 0px; text-align: center; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: -320px; left: 50%; position: absolute ; float: none}
+.div_pageInner { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; width: 640px; background-color: #FFFFFF; border: 1px #003366 solid; text-align: center; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; background-attachment: fixed; background-image: url(/images/backgrounds/spiral_striped.gif); background-repeat: no-repeat; background-position: 0px 0px; float: right; position: relative}
+.div_rightPane { padding-right: 0px; padding-bottom: 0px; position: relative; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; border: 0px; float: right; margin-left: 0px; padding-top: 0px; padding-left: 0px; width: 430px}
+.div_rightPaneTop { padding-right: 0px; padding-bottom: 0px; position: relative; page-break-before: auto; text-align: left; margin-top: 5px; margin-right: 0px; margin-bottom: 0px; border: 0px #003366 solid; float: none; margin-left: 0px; padding-top: 0px; padding-left: 0px}
+.div_rightPaneBottom { padding-right: 0px; padding-bottom: 0px; position: relative; page-break-before: auto; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; float: none; margin-left: 0px; padding-top: 0px; padding-left: 0px}
+.div_leftPane { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; position: relative; width: 200px; float: left; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.div_leftPaneTop { padding-right: 0px; padding-bottom: 0px; position: relative; text-align: left; margin-top: 17px; margin-right: 5px; margin-bottom: 5px; border: 0px; float: none; margin-left: 5px; padding-top: 0px; padding-left: 0px ; vertical-align: text-top}
+.div_bottomPane { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; position: relative; width: 640px; background-color: #FFFFFF; page-break-before: auto; border: 0px; float: none; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px }
+.div_summHead { background-color: #B3FFFF; border: #999999 solid; padding-right: 20px; padding-bottom: 2px; padding-left: 10px; border-width: 1px 1px 0px; padding-top: 0px; color: #003366}
+.div_summBody { background-color: #FFFFFF; border: 1px #999999 solid; padding-right: 10px; padding-bottom: 2px; padding-left: 10px; margin-bottom: 10px; padding-top: 0px}
+.div_downloadBody {  border: dashed; padding-top: 4px; padding-right: 3px; padding-bottom: 2px; padding-left: 6px; width: 420px; border-width: 0px 0px 1px 1px; border-color: black black #CCCCCC #CCCCCC}
+.div_downloadHead { border: solid; padding-top: 4px; padding-right: 3px; padding-bottom: 2px; padding-left: 6px ; background-color: #CCCCCC; color: #FFFFFF; width: 420px; border-width: 1px 0px 1px 1px; border-color: #DDDDDD black #DDDDDD #DDDDDD}
+.p_std { }
+.p_pageTitle { font-size: 24px}
+.p_copyright { color: #B5CBDA ; font-size: 9px; text-align: right; text-indent: 50px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px}
+.p_filmHead {  font-size: 14px}
+.p_summHead { border: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px ; font-weight: bold; color: #003366}
+.p_summBody { border: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px }
+
