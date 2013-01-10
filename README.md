@@ -1,4 +1,4 @@
 goodk
 =====
 
-goodk.co.uk website
+Temporary repo with HTML, JS and all assets
